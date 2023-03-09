@@ -1,0 +1,12 @@
+"filename", "language", "Python", "Excel", "Java", "comment", "blank", "total"
+"c:\Users\walker\.leetcode\2.两数相加.py", "Python", 0, 0, 0, 0, 1, 1
+"c:\Users\walker\.leetcode\98.验证二叉搜索树.py", "Python", 3, 0, 0, 13, 3, 19
+"c:\Users\walker\.leetcode\java\Person.class", "Java", 0, 0, 12, 0, 0, 12
+"c:\Users\walker\.leetcode\java\Student.class", "Java", 0, 0, 8, 0, 0, 8
+"c:\Users\walker\.leetcode\java\TestPerson.class", "Java", 0, 0, 15, 0, 0, 15
+"c:\Users\walker\.leetcode\java\TestPerson.java", "Java", 0, 0, 37, 0, 2, 39
+"c:\Users\walker\.leetcode\pythonSpider\1688.py", "Python", 53, 0, 0, 37, 3, 93
+"c:\Users\walker\.leetcode\pythonSpider\test.py", "Python", 6, 0, 0, 44, 3, 53
+"c:\Users\walker\.leetcode\pythonSpider\袜子.xlsx", "Excel", 0, 72, 0, 0, 2, 74
+"c:\Users\walker\.leetcode\pythonSpider\鞋子.xlsx", "Excel", 0, 708, 0, 0, 6, 714
+"Total", "-", 62, 780, 72, 94, 20, 1028
